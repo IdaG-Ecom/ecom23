@@ -25,10 +25,12 @@ header h1 {
 
 header h3 {
   font-family: "italiana", sans-serif; 
+  align-self: left;
+  flex-direction: row;
 }
 
 main {
-  align-self: center; 
+align-self: center; 
 width: 100%; 
 color: rgb(229, 229, 218);
 }
