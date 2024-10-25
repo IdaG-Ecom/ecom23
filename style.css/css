@@ -39,3 +39,4 @@ footer {
   maw-width: 1220px;
   width: 100%
   alig-self: center; 
+}
