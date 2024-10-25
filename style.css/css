@@ -33,3 +33,9 @@ width: 100%;
 color: rgb(229, 229, 218);
 }
 
+footer {
+  display: flex;
+  background-color: pink;
+  maw-width: 1220px;
+  width: 100%
+  alig-self: center; 
